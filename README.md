@@ -12,8 +12,9 @@ We're hoping to make this an international treaty that countries can sign on to,
 ## Contributing
 There are multiple ways to contribute:
 
-1. Submitting or replying to an issue - [view issues](https://github.com/aidan-fitz/techno-berne/issues)
-2. Forking and submitting a pull request
-3. If you'd like to contribute directly, send an email to Aidan Fitzgerald (acf67 AT cornell DOT edu) with the subject line "TECHNO-BERNE CONTRIBUTOR: " + your name.
+1. Adding a position paper to the [wiki](https://github.com/aidan-fitz/techno-berne/wiki). Anyone with a GitHub account can do this.
+2. Submitting or replying to an issue - [view issues](https://github.com/aidan-fitz/techno-berne/issues)
+3. Forking and submitting a pull request
+4. If you'd like to contribute directly, send an email to Aidan Fitzgerald (acf67 AT cornell DOT edu) with the subject line "TECHNO-BERNE CONTRIBUTOR: " + your name.
 
 The treaty will be composed of Markdown files. To build the pretty PDF version, we'll run it through Pandoc with a LaTeX template. We're open to other text formats that GitHub supports (see [github/markup](https://github.com/github/markup) for a full list), especially if they support cross-references between sections, which are common in legal documents.
