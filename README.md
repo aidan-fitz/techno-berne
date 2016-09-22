@@ -11,6 +11,7 @@ We're hoping to make this an international treaty that countries can sign on to,
 
 ## Contributing
 There are multiple ways to contribute:
+
 1. Submitting or replying to an issue - [view issues](https://github.com/aidan-fitz/techno-berne/issues)
 2. Forking and submitting a pull request
 3. If you'd like to contribute directly, send an email to Aidan Fitzgerald (acf67 AT cornell DOT edu) with the subject line "TECHNO-BERNE CONTRIBUTOR: " + your name.
