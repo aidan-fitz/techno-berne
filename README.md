@@ -1,2 +1,13 @@
 # techno-berne
 A "Berne Convention" for digital rights.
+
+## What we're trying to accomplish
+We're hoping to make this an international treaty that countries can sign on to, like the [Berne Convention](https://en.wikipedia.org/wiki/Berne_Convention) for copyrights.
+
+1. Establish international standards for freedom of speech and freedom from online harassment and censorship
+2. Establish international standards for balancing intellectual property protection, fair use, and free culture (including open source software) on the Internet
+3. Establish international standards for protecting digital privacy
+4. Establish international standards for protecting net neutrality
+
+## Contributing
+The treaty will be composed of Markdown files. To build the pretty PDF version, we'll run it through Pandoc with a LaTeX template. We're open to other text formats that GitHub supports (see [github/markup](https://github.com/github/markup) for a full list), especially if they support cross-references between sections, which are common in legal documents.
